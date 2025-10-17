@@ -45,3 +45,6 @@ Stop trying hard and start playing smart. 😉
 Это не просто скрипт; это стиль жизни. Мы постоянно обновляемся, чтобы ты был на вершине. Наша поддержка — ОГОНЬ и всегда на связи. 🛠️
 
 Хватит стараться, начни играть с умом. 😉
+dota external - internal framework - game modding
+assist tool - enhancement suite - premium features
+unlocker - bypass - injector - loader
